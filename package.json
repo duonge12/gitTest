@@ -1,0 +1,14 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000i\u0000t\u0000T\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+     "live": "live-server ./src --port=5000 --host=127.0.0.1 --open=./index.html --browser=chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
